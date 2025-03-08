@@ -1,4 +1,4 @@
-package com.kali;
+package com.kali.bean;
 
 import io.smallrye.config.ConfigMapping;
 import io.smallrye.config.WithName;
